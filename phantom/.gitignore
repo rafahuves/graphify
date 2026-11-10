@@ -1,0 +1,5 @@
+sinais.csv
+sinais.csv.tmp
+config.json
+.phantom_monitor.lock
+__pycache__/
